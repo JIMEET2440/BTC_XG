@@ -1,5 +1,4 @@
-# BTC-XGB-SignalEngine
- 
+# BTC-XGB
 A binary classification system that predicts short-term Bitcoin price direction using gradient-boosted trees (XGBoost), with an underlying multi-timeframe analysis design.
  
 ## Overview
